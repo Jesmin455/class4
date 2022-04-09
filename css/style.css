@@ -1,0 +1,214 @@
+body {
+    margin: 0;
+    padding: 0;
+    outline: 0;
+}
+
+img {
+    vertical-align: middle;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul,
+ol {
+    list-style: none;
+}
+
+.menu {
+    background: #54365f;
+    height: 60px;
+}
+
+.menu ul li {
+    float: left;
+}
+
+.menu ul li a {
+    color: powderblue;
+    font-size: 20px;
+    font-weight: 700;
+    font-family: cursive;
+    line-height: 60px;
+    padding: 0 20px;
+    transition: all linear .4s;
+    -webkit-transition: all linear .4s;
+    -o-transition: all linear .4s;
+    -moz-transition: all linear .4s;
+    -ms-transition: all linear .4s;
+     
+}
+
+.menu ul li a:hover {
+    color: yellow;
+}
+
+.banner {
+    background: url(../images/background2.jpg);
+    height: 600px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.banner .lay {
+    background: rgba(0, 0, 0, 0.53);
+    width: 100%;
+    height: 100%;
+    padding: 1px 0px 4px;
+}
+
+.banner h1 {
+    color: powderblue;
+    font-size: 50px;
+    font-weight: 700;
+    font-family: cursive;
+    text-align: center;
+}
+
+.banner p {
+    color: powderblue;
+    font-size: 20px;
+    font-weight: 700;
+    font-family: cursive;
+}
+
+.banner h3 {
+    color: powderblue;
+    font-size: 40px;
+    font-weight: 700;
+    font-family: cursive;
+    text-align: center
+}
+
+.banner pre {
+    padding-left: 500px;
+}
+
+.banner h2 {
+    padding-right: 10px;
+    text-align: center;
+}
+
+.banner h2 button {
+    background: #81aad3;
+    height: 40px;
+    width: 100px;
+
+}
+
+.our h1 {
+    color: black;
+    font-size: 50px;
+    font-weight: 700;
+    font-family: cursive;
+    text-align: center;
+}
+
+.o1 {
+    height: 450px;
+    width: 1350px;
+    background: #128736;
+    float: left;
+
+
+}
+
+.o1 .o2 {
+    height: 450px;
+    width: 450px;
+    background: #6d962a;
+    float: left;
+
+}
+
+.o1 .o2 h1 {
+    font-size: 30px;
+    font-weight: 400;
+    color: yellow;
+    text-align: center;
+
+}
+
+.o1 .o2 p {
+    font-size: 15px;
+    font-weight: bold;
+    color: chartreuse;
+}
+
+.o1 .o2 .pic1 {
+    background: url(../images/pic6.jpeg);
+    height: 300px;
+    width: 450px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+}
+
+.o1 .o3 {
+    height: 450px;
+    width: 450px;
+    background: #666622;
+    float: left;
+
+}
+
+.o1 .o3 .pic2 {
+    background: url(../images/pic2.jpeg);
+    height: 300px;
+    width: 450px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+
+}
+
+.o1 .o3 h1 {
+    font-size: 30px;
+    font-weight: 400;
+    color: yellow;
+    text-align: center;
+
+}
+
+.o1 .o3 p {
+    font-size: 15px;
+    font-weight: bold;
+    color: chartreuse;
+}
+
+.o1 .o4 {
+    height: 450px;
+    width: 449px;
+    background: #2a6622;
+    float: left;
+
+}
+
+.o1 .o4 .pic3 {
+    background: url(../images/sky1.jpg);
+    height: 300px;
+    width: 450px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+}
+
+.o1 .o4 h1 {
+    font-size: 30px;
+    font-weight: 400;
+    color: yellow;
+    text-align: center;
+
+}
+
+.o1 .o4 p {
+    font-size: 15px;
+    font-weight: bold;
+    color: chartreuse;
+}
